@@ -1,50 +1,26 @@
-# Hello, I'm Josue Acuna 👋
+<h1 align="center">Hi 👋, I'm Josue Acuna</h1>
+<h3 align="center">A passionate software developer from Ecuador 🇪🇨</h3>
 
-## A passionate software developer from Ecuador 🇪🇨
+<p align="left"> <a href="https://twitter.com/sitrayas" target="blank"><img src="https://img.shields.io/twitter/follow/sitrayas?logo=twitter&style=for-the-badge" alt="sitrayas" /></a> </p>
 
-### 📖 About me
-<br><em> I'm just a simple mortal Informatic Engineer 9/10 
-|| I loved Microelectronic Advanced, ** Web Page Developer **, Software Developer, #Asidebeservivirenelparaiso and #Gamer </em>
-<img src="https://drive.google.com/uc?export=view&id=1V7LfcwadsTBnWTKF96k1S7SvHKyJdPBr" width="200" height="auto" align="right">
+- 📝 I regularly write articles on [sitrayas.com](sitrayas.com)
 
-### 💻 Tech Stack
+- 💬 Ask me about **I'm just a simple mortal Informatic Engineer 9/10 || I loved Microelectronic Advanced, ** Web Page Developer **, Software Developer, #Asidebeservivirenelparaiso and #Gamer**
 
-I have experience working with the following technologies:
+- ⚡ Fun fact **Global Trash Cleaner: An application that uses satellite imagery to detect trash on beaches and oceans, developed for the NASA Space Challenge. It won the 3rd place in the 2019 edition.https://2019.spaceappschallenge.org/challenges/earths-oceans/trash-cleanup/teams/global-trash-cleaners/project**
 
-- **Languages**: Java, JavaScript, HTML, CSS.
-- **Frameworks/Libraries**:  React, Node.js, Bootstrap.
-
-- **Databases**: MySQL, PostgreSQL.
-
-- **Tools**: Git, Postman, Github.
-
-### 🚀 Projects
-
-Here are some of the projects I've worked on recently:
-
-- **Global Trash Cleaner**: An application that uses satellite imagery to detect trash on beaches and oceans, developed for the NASA Space Challenge. It won the 3rd place in the 2019 edition.
-
-<div align="center">
-<h3 align="center">Let's connect 😋</h3>
-</div>
-<p align="center">
-  
-
-  
-<a href="https://twitter.com/sitrayas" target="_blank">
-<img align="center" width="30px" alt="Josue's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.youtube.com/channel/sitrayastech" target="_blank">
-<img align="center" width="30px" alt="Josue's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sitrayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sitrayas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/josueacuna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josueacuna/" height="30" width="40" /></a>
+<a href="https://instagram.com/sitrayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sitrayas" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sitrayastv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sitrayastv" height="30" width="40" /></a>
 </p>
 
-- LinkedIn: [linkedin.com/in /josueacuna/]( https://www.linkedin.com/in/josueacuna/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-
-### 🎯 Goals for 2023
-
-- Develop a fully functional mobile application from scratch.
-- Contribute to open source projects and participate in hackathons.
-
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sitrayas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sitrayas" /></a></p><br><br>
 
