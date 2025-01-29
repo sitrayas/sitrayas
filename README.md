@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josue Acuna</h1>
-<h3 align="center">Software Developer, IT Engineer & Founder of SitrayasTech 🇪🇨</h3>
+<h3 align="center">Software Developer, IT Engineer Half & Founder of SitrayasTech 🇪🇨</h3>
 <h3 align="center">#Asidebeservivirenelparaiso</h3>
 
 
