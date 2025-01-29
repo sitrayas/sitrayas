@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josue Acuna</h1>
-<h3 align="center">Software Developer, IT Engineer & Founder of SitrayasTech Ecuador 🇪🇨</h3>
-#Asidebeservivirenelparaiso
+<h3 align="center">Software Developer, IT Engineer & Founder of SitrayasTech 🇪🇨</h3>
+<h3 align="center">#Asidebeservivirenelparaiso</h3>
 
 
 ### 🚀 About Me
@@ -8,7 +8,7 @@
 - 🏢 Founder of **[SitrayasTech](https://sitrayastech.sitrayas.com)**, a company focused on **technical support and repair of electronic devices**.  
 - 🌐 I develop **web applications** using **PHP, JavaScript, WordPress, and more**.  
 - 📝 I regularly write articles on **[sitrayastech.sitrayas.com](https://sitrayastech.sitrayas.com)**.  
-- ⚡ Fun fact: I developed **Global Trash Cleaner**, an app that won **3rd place in the 2019 NASA Space Challenge. It won the 3rd place in the 2019 edition.https://2019.spaceappschallenge.org/challenges/earths-oceans/trash-cleanup/teams/global-trash-cleaners/project**** 🏆.  
+- ⚡ Fun fact: I developed **Global Trash Cleaner**, an app that won **3rd place in the 2019 NASA Space Challenge.https://2019.spaceappschallenge.org/challenges/earths-oceans/trash-cleanup/teams/global-trash-cleaners/project**** 🏆.  
 
 ### 🛠️ Tech Stack
 <p align="left">
